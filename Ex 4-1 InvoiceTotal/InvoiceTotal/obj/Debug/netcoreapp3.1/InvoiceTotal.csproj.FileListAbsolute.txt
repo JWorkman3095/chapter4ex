@@ -1,0 +1,16 @@
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.exe
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.deps.json
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.json
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.dev.json
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.AssemblyReference.cache
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.frmInvoiceTotal.resources
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.GenerateResource.cache
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfoInputs.cache
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfo.cs
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\Murach\C#\Exercise Solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.genruntimeconfig.cache

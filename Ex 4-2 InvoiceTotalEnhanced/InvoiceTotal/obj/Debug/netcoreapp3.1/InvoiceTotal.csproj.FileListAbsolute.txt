@@ -1,0 +1,16 @@
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.exe
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.deps.json
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.json
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.runtimeconfig.dev.json
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\bin\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.AssemblyReference.cache
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.frmInvoiceTotal.resources
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.GenerateResource.cache
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfoInputs.cache
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.AssemblyInfo.cs
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.csproj.CoreCompileInputs.cache
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.dll
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.pdb
+C:\repos\Chapter4EX\Ex 4-2 InvoiceTotalEnhanced\InvoiceTotal\obj\Debug\netcoreapp3.1\InvoiceTotal.genruntimeconfig.cache
